@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "play gloomhaven",
+      "isFav": true
+    },
+    {
+      "title": "become an eldern lord",
+      "isFav": true,
+      "id": 3
+    },
+    {
+      "title": "go to room",
+      "isFav": false,
+      "id": 7.19
+    },
+    {
+      "title": "make a coffee",
+      "isFav": false,
+      "id": 5.62
+    }
+  ]
+}
